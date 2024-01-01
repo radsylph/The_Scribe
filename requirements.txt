@@ -1,0 +1,9 @@
+pymongo==4.5.0
+discord==2.3.2
+discord-py-slash-command==4.2.1
+discord-typings==0.7.0
+discord.py==2.3.2
+requests
+python-dotenv 
+python-decouple
+selenium
